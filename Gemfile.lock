@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/aewagner/AustinViewTool
+  revision: 656a2a53543c1ca23a30dfc659b9880bf7d65931
+  specs:
+    austin_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -201,6 +207,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  austin_view_tool!
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.1.1)
   byebug
